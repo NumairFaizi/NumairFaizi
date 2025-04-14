@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NumairFaizi/NumairFaizi/main/banner.png" alt="Numair Faizi Banner" />
+  <img src="/Numair.png" alt="Numair Faizi Banner" />
 </p>
 
 <h1 align="center">Greetings, I am Numair Faizi — your full-stack command center.</h1>
